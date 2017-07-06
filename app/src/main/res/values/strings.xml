@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FFmpeg</string>
+    <string name="protocol">Protocol</string>
+    <string name="format">Format</string>
+    <string name="codec">Codec</string>
+    <string name="filter">Filter</string>
+    <string name="greeting">Welcome to FFmpeg</string>
+</resources>
